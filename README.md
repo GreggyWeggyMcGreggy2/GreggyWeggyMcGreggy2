@@ -4,7 +4,7 @@
 
 - **Education:** Currently studying software development at a private programming academy.
 
-- **Current Goals:** Expanding my full-stack skills and collaborating on real-world open-source projects.
+- **Current Goals:** Expanding my skills and collaborating on real world open source projects.
 
 - **Ask me about:** Python logic, Discord API (`discord.py` / `disnake`).
 
