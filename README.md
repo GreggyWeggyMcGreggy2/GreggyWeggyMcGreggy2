@@ -1,16 +1,13 @@
-## Hi there 👋
+## Greetings traveller! Here's my about me:
 
-<!--
-**GreggyWeggyMcGreggy2/GreggyWeggyMcGreggy2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Primary Focus:** Python Developer specializing in building and programming **discord bots** or other projects involving python and debugging code.
 
-Here are some ideas to get you started:
+- **Education:** Currently studying software development at a private programming academy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Current Goals:** Expanding my full-stack skills and collaborating on real-world open-source projects.
+
+- **Ask me about:** Python logic, Discord API (`discord.py` / `disnake`), and bot architecture.
+
+- **How to reach me:** greg.sleeps.but.doesnt.fix (discord username)
+
+
